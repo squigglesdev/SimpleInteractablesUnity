@@ -10,7 +10,7 @@ Interactable is a Unity script for creating interactable objects in a game. It u
 - An object of type `Toggle` can be activated by the player by pressing a button, and it remains activated until the player presses the button again. 
 - An object of type `Radius` can be activated by the player if they are within a certain radius of the object, and it remains activated as long as the player is within that radius. If the player leaves the radius, the object is deactivated.
 
-`InteractableAction` is an enum that determines whether an interactable object has a narrative action or a kinetic action. 
+`InteractableAction` is an enum that determines whether an interactable object has a narrative action or a kinetic action. (Unfinished - doesn't do anything at the moment)
 - A narrative action is something that advances the story or dialogue in the game, while a kinetic action is something that affects the game world, such as moving an object or opening a door.
 
 ## Public Fields
