@@ -36,6 +36,10 @@ The script has an `Update` function that calculates the distance between the pla
 
 The script also has a `ToggleActivation` function that toggles the activation state of the object, and an `Activate` function that sets the activation state of the object to true.
 
+## Installation
+
+To use the `Interactable` script in your project, simply download the code and place it in your Unity project's `Assets` folder.
+
 ## Example Usage
 
 1. Attach the `Interactable` script to a game object in your scene.
