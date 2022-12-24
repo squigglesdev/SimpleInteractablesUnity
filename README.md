@@ -2,7 +2,7 @@
 
 Interactable is a Unity script for creating interactable objects in a game. It uses the [Unity_HideIf](https://github.com/Baste-RainGames/Unity_HideIf) package by Baste-RainGames (MIT license) to allow hiding certain fields in the Inspector based on the values of other fields. 
 
-## Enums
+## Interactable Types and Actions
 
 `SpriteType` is an enum that determines whether an interactable object should have a static sprite or an animated sprite.
 
