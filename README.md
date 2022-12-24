@@ -34,8 +34,6 @@ The script has an `Update` function that calculates the distance between the pla
 - If the object is of type `Toggle`, the player can activate it by pressing the interact button. 
 - If the object is of type `Radius`, it is activated if the player is within the radius and presses the interact button, and deactivated if the player leaves the radius.
 
-The script also has a `ToggleActivation` function that toggles the activation state of the object, and an `Activate` function that sets the activation state of the object to true.
-
 ## Installation
 
 To use the `Interactable` script in your project, simply download the code and place it in your Unity project's `Assets` folder.
